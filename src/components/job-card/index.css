@@ -1,0 +1,17 @@
+.job-card {
+  width: 700px;
+  border-radius:5px;
+  box-shadow:2px 2px 13px -2px #b8b3b3;
+  margin:  20px auto;
+}
+
+.job-title {
+  padding: 15px 10px;
+  border-bottom: 1px solid #333;
+  display:flex;
+  justify-content: space-between;
+}
+
+.job-content {
+  padding: 15px 10px;
+}

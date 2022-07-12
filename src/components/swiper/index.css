@@ -1,0 +1,10 @@
+.swiper {
+  overflow: hidden;
+}
+
+.swiper-content {
+  display:flex;
+}
+.swiper-content .hc-list {
+  flex: 0 0 100%;
+}
